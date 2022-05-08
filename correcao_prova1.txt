@@ -1,0 +1,53 @@
+NOTA: 10
+
+Ótima prova, super organizada.
+
+- A prova vale 11 pontos.
+
+Entre parênteses está o valor da questão e ao lado o valor da correção:
+
+Exercicio 1 
+EMQ $\beta_0$ (0,5) 0.5
+EMQ $\beta_1$ (0,5) 0.5
+$Var(\hat{\beta}_1)$ (0,5) 0.5
+
+Exercício 2
+Estimadores (0,25) 0.25
+Propriedades (0,25) 0.25
+
+Exercício 3
+a -(0.1)  .1
+b -(0.1)  .1
+c - (0.1) 0 o EMQ nao exige normalidade
+d -(0.1) .1
+e -(0.1) .1
+
+Exercício 4
+a - (0.25) 0.25
+b - (0.25) 0.1 Como assim dizer sobre a amostra?
+
+Exercicio 5 
+(0,5) 0.5
+
+Exercicio 6
+(0,5) .5
+
+Exercicio 7
+a -(0.5)  .5
+b -(0.5) 0 Não é pra fazer a comparacao múltipla pq o teste nao foi significativo.
+c - (0.5) 0.5 
+d -(0.5) .5 
+
+
+Exercicio 8 
+a -(0.5)  0.5
+b -(0.5) 0.5
+c - (0.5) .5
+d - (0.5) .5
+e -(1) 1
+f -(0.5) 0.5
+g -(0.5) 0.5
+
+# Exercício 9 (1 ponto extra)
+Git 1
+
