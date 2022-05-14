@@ -1,0 +1,43 @@
+Correção trabalho: 10	Ótimo trabalho e excelente apresentação.
+
+NOTA prova 2: 10
+
+- A prova vale 11 pontos.
+
+Entre parênteses está o valor da questão e ao lado o valor da correção:
+
+Exercicio 1 
+EMQ  (0,5) 0.5
+esperança (0,5) 0.5
+variancia (0,5) 0.5
+
+Exercício 2
+Multicolinearidade (0,25) 0.25
+Consequencias (0,25) 0.15 As consequências são a de erros-padrão elevados no caso de multicolinearidade e até mesmo a impossibilidade de qualquer estimação, COMO ASSIM IMPOSSIBILIDADE DE QUALQUER ESTIMAÇÃO??
+
+Exercício 3
+r2 (0.25) .25
+explicar (0.25) .25
+
+Exercício 4
+a -(0.16)  0.16
+b -(0.16) 0.16
+c - (0.16) .16
+
+Exercício 4
+(0.5) .5
+
+Exercicio 6
+a -(0.5)  0.5
+b -(0.5) 0.5
+c - (1.0) 1 Faltou o chapéu nos betas
+d - (0.5)  0.5
+e - (0.5) 0.25 Gráfico de correlação para covariável categórica? 
+f - (0.5) 0.5
+g - (0.5) 0.5
+h - (0.5) 0.5
+
+
+# Exercício 7 (1 ponto extra)
+Git 1
+

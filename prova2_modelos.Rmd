@@ -14,17 +14,17 @@ output:
 
 ```{r, echo=FALSE, out.width = '40%'}
 library(knitr)
-knitr::include_graphics("questao1_p2_1.png")
+knitr::include_graphics("questao1_p2_1.jpg")
 ```
 
 ```{r, echo=FALSE, out.width = '40%'}
 library(knitr)
-knitr::include_graphics("questao1_p2_2.png")
+knitr::include_graphics("questao1_p2_2.jpg")
 ```
 
 ```{r, echo=FALSE, out.width = '40%'}
 library(knitr)
-knitr::include_graphics("questao1_p2_3.png")
+knitr::include_graphics("questao1_p2_3.jpg")
 ``` 
 # Exercicio 2 (0,5 pontos)
 
