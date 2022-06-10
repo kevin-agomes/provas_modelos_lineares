@@ -1,3 +1,3 @@
-PROVA 1 - MODELOS LINEARES
+PROVAS - MODELOS LINEARES
 
-Repositório que contém a prova 1 de Modelos Lineares.
+Repositório que contém as prova 1 e 2 de Modelos Lineares.
